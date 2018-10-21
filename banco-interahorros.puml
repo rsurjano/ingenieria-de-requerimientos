@@ -1,0 +1,6 @@
+@startuml bancointerahorros
+
+User ->(Start)
+User --> (Create the application)
+
+@enduml

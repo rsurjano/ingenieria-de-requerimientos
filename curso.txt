@@ -1,0 +1,66 @@
+Unidad 01
+...Teoria
+......Introduccion a la ingenieria de requerimientos
+.........Problemas actuales en el desarrollo de software
+.........deseos, necesidades y expectativas
+......Modelado de negocio
+.........ciclo de vida y flujo de trabajo
+.........actividades, roles y artefactos
+......Modelo de casos de uso del negocio
+.........Actores del negocio
+.........Casos de uso del negocio
+.........Diagrama de casos de uso del negocio
+......Modelo de analisis del negocio
+.........Trabajadores del negocio
+.........Entidades del negocio del negocio
+.........Diagramas de clase del negocio del negocio
+......Realizacion de los casos de uso del negocio
+.........Especificacion de casos de uso del negocio
+.........Diagramas de proceso
+......Reglas de negocio
+......Glosario de terminos del negocio
+...Practica
+......Introduccion a la ingenieria de requerimientos
+.........Problemas actuales en el desarrollo de software
+.........deseos, necesidades y expectativas
+......Modelado de negocio
+.........ciclo de vida y flujo de trabajo
+.........actividades, roles y artefactos
+......Modelo de casos de uso del negocio
+.........Actores del negocio
+.........Casos de uso del negocio
+.........Diagrama de casos de uso del negocio
+......Modelo de analisis del negocio
+.........Trabajadores del negocio
+.........Entidades del negocio del negocio
+.........Diagramas de clase del negocio del negocio
+......Realizacion de los casos de uso del negocio
+.........Especificacion de casos de uso del negocio
+.........Diagramas de proceso
+......Reglas de negocio
+......Glosario de terminos del negocio
+...Trabajos
+Unidad 02
+...Teoria
+......Requerimientos
+.........Ciclo de vida y flujo de trabajo
+.........Actividades, roles y artefactos
+......Requerimientos funcionales y no funcionales
+......Modelos de casos de uso del sistema
+.........Actores del sistema
+.........Casos de uso del sistema
+.........Paquete de casos de uso del sistema
+.........Diagrama de actores del sistema
+...Practica
+......Requerimientos
+.........Ciclo de vida y flujo de trabajo
+.........Actividades, roles y artefactos
+......Requerimientos funcionales y no funcionales
+......Modelos de casos de uso del sistema
+.........Actores del sistema
+.........Casos de uso del sistema
+.........Paquete de casos de uso del sistema
+.........Diagrama de actores del sistema
+...Trabajos
+
+
